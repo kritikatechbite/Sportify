@@ -1,0 +1,3 @@
+@media(max-width:960px){#mb{display:inline-block}nav{position:absolute;top:66px;left:0;right:0;background:#fff;border-bottom:1px solid var(--ln);display:none}nav.open{display:block}nav ul{flex-direction:column;padding:8px 4%}nav a{padding:14px 8px;border-bottom:1px solid var(--ln)}
+.hero .wrap,.split,.sp{grid-template-columns:1fr}.sp:nth-child(even) img{order:0}.fg{grid-template-columns:1fr 1fr}}
+@media(max-width:560px){section{padding:38px 0}.fg{grid-template-columns:1fr}.grid{grid-template-columns:1fr}.btn{width:100%;text-align:center}}
