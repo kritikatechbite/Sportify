@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url><loc>{{SITE_URL}}/</loc></url>
+<url><loc>{{SITE_URL}}/news.html</loc></url>
+<url><loc>{{SITE_URL}}/scores.html</loc></url>
+<url><loc>{{SITE_URL}}/sports.html</loc></url>
+<url><loc>{{SITE_URL}}/about.html</loc></url>
+<url><loc>{{SITE_URL}}/match-details.html</loc></url>
+<url><loc>{{SITE_URL}}/privacy-policy.html</loc></url>
+<url><loc>{{SITE_URL}}/terms-and-conditions.html</loc></url>
+<url><loc>{{SITE_URL}}/disclaimer.html</loc></url>
+<url><loc>{{SITE_URL}}/cookie-policy.html</loc></url>
+</urlset>
